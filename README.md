@@ -10,7 +10,7 @@
 - 🚀🤝Collaborative opportunities: I’d love to collaborate with others and contribute to open-source projects.
 
 - How to reach me
-🔗 My Instagram: [codesbysara](https://www.instagram.com/codesbysara/)
+🔗 My Instagram: [codesbysara](https://www.instagram.com/codesbysara/?theme=dark)
 
 
 - 👩🏻 Pronouns: She/her
