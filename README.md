@@ -1,7 +1,7 @@
 - Hi  👋 I'm Sara
   
-- I’m a  frontend developer with a mission to help people take their first step into the programming world.
-  My journey into frontend development has been full of challenges, mistakes, and successes,
+- I’m a  web developer with a mission to help people take their first step into the web development world.
+  My journey into web development has been full of challenges, mistakes, and successes,
   and I’m here to share everything I’ve learned along the way.
   
 - Here’s what you can expect from my GitHub:
