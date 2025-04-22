@@ -1,4 +1,4 @@
-- Hi  👋 I'm Sara
+-<p> Hi  👋 I'm Sara</p>
   
 - I’m a  web developer with a mission to help people take their first step into the web development world.
   My journey into web development has been full of challenges, mistakes, and successes,
