@@ -1,10 +1,15 @@
 <img src="My-banner.png" alt="banner that says: Hi, I’m Sara - Front-end Web Developer & Content Creator">
+<h1 align="center">Hi  👋 I'm Sara</h1>
 
-# Hi  👋 I'm Sara
+ <p align="center">
+  <em>Front-End Web Developer | Passionate about building from scratch | self-taught Learner</em>
+</p>
+
+---
   
-- I’m a  web developer with a mission to help people take their first step into the web development world.
-  My journey into web development has been full of challenges, mistakes, and successes,
-  and I’m here to share everything I’ve learned along the way.
+- I'm a self-taught front-end developer who loves turning ideas into interactive and visually appealing websites. What excites me most is **creating something from nothing**—starting with a blank screen and transforming it into something meaningful and functional.
+  
+- **Tools I Use:** HTML5, CSS3, JavaScript, React, TailwindCSS, Git & GitHub 
   
 - Here’s what you can expect from my GitHub:
 - 👩🏻‍💻 Real-world projects: Code and projects that you can study, use, and improve.
